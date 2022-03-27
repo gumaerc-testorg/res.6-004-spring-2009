@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Online Textbook
 parent_type: SupplementalResourceSection
+parent_uid: b4e8d5a9-0bdf-6cd9-d3f9-716855fa7b12
 resourcetype: Document
 title: networks_open_5_0.pdf
 uid: 46bd7ae6-0f3a-dfbd-cfac-a03df7892c24

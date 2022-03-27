@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Online Textbook
 parent_type: SupplementalResourceSection
+parent_uid: b4e8d5a9-0bdf-6cd9-d3f9-716855fa7b12
 resourcetype: Document
 title: glossary_open_5_0.pdf
 uid: f77e9db9-ba9e-77a5-9d1e-8b9545fde235

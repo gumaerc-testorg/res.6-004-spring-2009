@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Online Textbook
 parent_type: SupplementalResourceSection
+parent_uid: b4e8d5a9-0bdf-6cd9-d3f9-716855fa7b12
 resourcetype: Document
 title: faults_open_5_0.pdf
 uid: 6b31587e-c59b-1b00-2cb7-a710d9781453

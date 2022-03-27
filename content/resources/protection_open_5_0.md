@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Online Textbook
 parent_type: SupplementalResourceSection
+parent_uid: b4e8d5a9-0bdf-6cd9-d3f9-716855fa7b12
 resourcetype: Document
 title: protection_open_5_0.pdf
 uid: 96b949dd-6482-5a56-24ff-805aa38e96cd

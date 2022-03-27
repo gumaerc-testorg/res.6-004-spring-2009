@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Online Textbook
 parent_type: SupplementalResourceSection
+parent_uid: b4e8d5a9-0bdf-6cd9-d3f9-716855fa7b12
 resourcetype: Document
 title: part_ii_open_5_0.pdf
 uid: e962408d-9002-26fe-f264-fd1cd1b81468
