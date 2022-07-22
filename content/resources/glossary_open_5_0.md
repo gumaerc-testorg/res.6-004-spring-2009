@@ -5,6 +5,7 @@ file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-sp
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: glossary_open_5_0.pdf
 uid: f77e9db9-ba9e-77a5-9d1e-8b9545fde235
 ---
 This resource contains glossary of terms used in computer systems. 
-

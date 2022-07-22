@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-license: ''
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: MITRES-6-033s09_Part_IErrata2022-02-28.pdf
 uid: 4841fa12-dc2b-4d31-8225-514aeb822158

@@ -5,6 +5,7 @@ file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-sp
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: atomicity_figures.pdf
 uid: 42af24fa-c8bc-e4c9-b8ca-093a5d2f7775
 ---
 This resource contains slides of chapter 9 figures. 
-

@@ -5,6 +5,7 @@ file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-sp
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: errata_part_i.pdf
 uid: 61432bbe-14fe-c6d1-c1ab-12cf9fc4c1ad
 ---
 This resource contains errata for part I. 
-

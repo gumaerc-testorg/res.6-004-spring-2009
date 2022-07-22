@@ -5,6 +5,7 @@ file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-sp
 file_type: application/zip
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: atomicity_figures_key.zip
 uid: 5e2628ea-7fd8-f539-5617-493e1fb6bed7
 ---
 New file Uplaod
-

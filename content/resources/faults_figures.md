@@ -5,6 +5,7 @@ file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-sp
 file_type: application/vnd.ms-powerpoint
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook
 parent_type: SupplementalResourceSection
@@ -14,4 +15,3 @@ title: faults_figures.ppt
 uid: b9e63e61-6095-b4af-75f1-9df7e842c66e
 ---
 New file Uplaod
-

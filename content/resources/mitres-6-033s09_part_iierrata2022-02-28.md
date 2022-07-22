@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-license: ''
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: MITRES-6-033s09_Part_IIErrata2022-02-28.pdf
 uid: ac7fe17b-b56b-4fcf-baaf-880aa2094ce4

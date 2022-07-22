@@ -6,6 +6,7 @@ file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-sp
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ title: faults_open_5_0.pdf
 uid: 6b31587e-c59b-1b00-2cb7-a710d9781453
 ---
 This resource contains information related to fault tolerance: reliable systems from unreliable components. 
-
