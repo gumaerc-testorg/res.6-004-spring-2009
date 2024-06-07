@@ -7,7 +7,7 @@ description: 'Part II: Chapters 7-11 (Version 5.0, June 2009), Front-End Matter,
   Suggestions for Further Reading, Glossary, Problem Sets, and Index of Concepts.'
 draft: false
 learning_resource_types:
-- Online Textbooks
+- Online Textbook
 ocw_type: SupplementalResourceSection
 title: Online Textbook
 uid: b4e8d5a9-0bdf-6cd9-d3f9-716855fa7b12
