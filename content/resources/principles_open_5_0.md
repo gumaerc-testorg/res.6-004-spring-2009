@@ -2,9 +2,10 @@
 content_type: resource
 description: 'This resource contains information related to design principles. '
 file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/34616a03921fba8313259ad7aa751284_principles_open_5_0.pdf
+file_size: 109066
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Online Textbook
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook
