@@ -2,9 +2,10 @@
 content_type: resource
 description: New file Uplaod
 file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/7ed311a2420a984ed3aff768b9685c25_consistency_figures.ppt
+file_size: 80384
 file_type: application/vnd.ms-powerpoint
 learning_resource_types:
-- Online Textbooks
+- Online Textbook
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook

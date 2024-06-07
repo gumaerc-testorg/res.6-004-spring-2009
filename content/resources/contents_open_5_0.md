@@ -2,9 +2,10 @@
 content_type: resource
 description: 'This resource contains a complete table of contents. '
 file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/4eda93f5ab9b2ffbb08861173d92a3fd_contents_open_5_0.pdf
+file_size: 220580
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Online Textbook
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook

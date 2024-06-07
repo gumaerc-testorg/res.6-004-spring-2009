@@ -2,9 +2,10 @@
 content_type: resource
 description: 'This resource contains information related to information security. '
 file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/96b949dd64825a5624ff805aa38e96cd_protection_open_5_0.pdf
+file_size: 1014407
 file_type: application/pdf
 learning_resource_types:
-- Online Textbooks
+- Online Textbook
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook
