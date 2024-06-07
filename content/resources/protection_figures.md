@@ -2,9 +2,10 @@
 content_type: resource
 description: New file Uplaod
 file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/4dd9ed616ed5071d4762536a5288f870_protection_figures.ppt
+file_size: 200192
 file_type: application/vnd.ms-powerpoint
 learning_resource_types:
-- Online Textbooks
+- Online Textbook
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook
