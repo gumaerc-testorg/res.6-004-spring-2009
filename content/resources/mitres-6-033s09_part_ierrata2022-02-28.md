@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/mitres-6-033s09_part_ierrata2022-02-28.pdf
+file: /ol-ocw-studio-app/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/mitres-6-033s09_part_ierrata2022-02-28.pdf
 file_size: 131536
 file_type: application/pdf
 image_metadata:

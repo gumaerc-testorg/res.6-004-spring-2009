@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Uplaod
-file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/ddcb64075e47679fa93496dad0b3a856_faults_figures_key.zip
+file: /ol-ocw-studio-app/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/ddcb64075e47679fa93496dad0b3a856_faults_figures_key.zip
 file_size: 331737
 file_type: application/zip
 learning_resource_types:

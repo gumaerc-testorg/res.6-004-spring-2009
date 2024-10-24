@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to the network as a system
   and as a system component. '
-file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/46bd7ae60f3adfbdcfaca03df7892c24_networks_open_5_0.pdf
+file: /ol-ocw-studio-app/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/46bd7ae60f3adfbdcfaca03df7892c24_networks_open_5_0.pdf
 file_size: 803546
 file_type: application/pdf
 learning_resource_types:
