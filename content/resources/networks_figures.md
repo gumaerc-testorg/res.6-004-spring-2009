@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Uplaod
-file: /ol-ocw-studio-app/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/c38cc095368dd403bac165992e4670a5_networks_figures.ppt
+file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/c38cc095368dd403bac165992e4670a5_networks_figures.ppt
 file_size: 143360
 file_type: application/vnd.ms-powerpoint
 learning_resource_types:
