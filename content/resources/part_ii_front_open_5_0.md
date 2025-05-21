@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information related to front end matter. '
-file: /ol-ocw-studio-app/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/1b2e625d8a338f59898c6357a9950414_part_ii_front_open_5_0.pdf
+file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/1b2e625d8a338f59898c6357a9950414_part_ii_front_open_5_0.pdf
 file_size: 267302
 file_type: application/pdf
 learning_resource_types:

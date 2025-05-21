@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New file Uplaod
-file: /ol-ocw-studio-app/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/5e2628ea7fd8f5395617493e1fb6bed7_atomicity_figures_key.zip
+file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/5e2628ea7fd8f5395617493e1fb6bed7_atomicity_figures_key.zip
 file_size: 445418
 file_type: application/zip
 learning_resource_types:
