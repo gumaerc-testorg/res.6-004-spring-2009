@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: New file Uplaod
-file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/ae959f3244f40fb2760dd102a7745299_consistency_figures_key.zip
+file: /ol-ocw-studio-app/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/ae959f3244f40fb2760dd102a7745299_consistency_figures_key.zip
 file_size: 237699
 file_type: application/zip
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook

@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: 'This resource contains slides of chapter 7 figures. '
-file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/c2a8fc3304395bd505751bdbc13b18f5_networks_figures.pdf
+file: /ol-ocw-studio-app/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/c2a8fc3304395bd505751bdbc13b18f5_networks_figures.pdf
 file_size: 999827
 file_type: application/pdf
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook

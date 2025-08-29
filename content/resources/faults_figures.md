@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: New file Uplaod
-file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/b9e63e616095b4af75f19df7e842c66e_faults_figures.ppt
+file: /ol-ocw-studio-app/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/b9e63e616095b4af75f19df7e842c66e_faults_figures.ppt
 file_size: 293888
 file_type: application/vnd.ms-powerpoint
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook
