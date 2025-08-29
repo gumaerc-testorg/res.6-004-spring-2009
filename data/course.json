@@ -41,10 +41,11 @@
     "website": "res-6-004-principles-of-computer-system-design-an-introduction-spring-2009"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Problem Sets"
   ],
   "site_uid": "51bc1e8c-3c19-4b84-87db-d430fa3caf6f",
   "site_short_id": "res.6-004-spring-2009",
+  "site_url_path": "courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009",
   "title": "Course Metadata"
 }

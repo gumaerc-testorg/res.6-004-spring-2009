@@ -2,11 +2,11 @@
 content_type: resource
 description: 'This resource contains part II of "principles of computer system design:
   an introduction."'
-file: /courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/e962408d900226fef264fd1cd1b81468_part_ii_open_5_0.pdf
+file: /ol-ocw-studio-app/courses/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/e962408d900226fef264fd1cd1b81468_part_ii_open_5_0.pdf
 file_size: 4383534
 file_type: application/pdf
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Online Textbook
